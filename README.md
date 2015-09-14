@@ -11,6 +11,7 @@ No claim for correctness or completeness.
 # linux foundation (node), open source
 > @DivaDanese
   Danese Cooper
+
 - give more value than you take
 - be generous
 - open source people are better
@@ -386,12 +387,13 @@ IR (Instruction Register) -> Control Unit (via Control Signals) -> ALU -> Regist
   & Wyatt Lyon Preul
   & Matt Harrison
     @mt_harrison
+
 - no middleware
 - more like .net like hooks along the request lifecycle
 - no regex in routes
 
 
-# read into / lookup
+## read into / lookup
 - npm.im: semantic-release, dont-break, india, diffyproject, next-update
 - measuring time: process.hrtime(t)
 - mqtt
