@@ -48,6 +48,12 @@ No claim for correctness or completeness.
 
 # ida business development in ireland
 
+Uups, I thought I took notes, but must have forgotten.
+What I remember is, they have got really competitive sustaining offers.
+- 12.5% TAX, 
+- 25% TAX deduction if R&D takes place in Ireland.
+
+
 # groupon
 > clovis chapman
 
